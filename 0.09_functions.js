@@ -144,6 +144,3 @@ function twoStrings(test1, test2){
 console.log(twoStrings("yes","no"))
 
 
-function totalprice(quantity, price, tax, itemName){
-	var price = quantity + price +
-}
