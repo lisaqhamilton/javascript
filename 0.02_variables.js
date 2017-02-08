@@ -70,8 +70,8 @@ var dailyWaterIntake = 8;
 var lifeexp = maxAge - age;
 var lifeWater = dailyWaterIntake * lifeexp;
 
-console.log("You will need" + " " +lifeWater + " "+ "glasses
- to last you unitl the ripe old age of" + " " +maxAge);
+console.log("You will need" + " " +lifeWater + " "+ "glasses of water " +
+ "to last you unitl the ripe old age of" + " " +maxAge);
 
 
 
